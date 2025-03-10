@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+sftp:
+  host: your.sftp.server
+  port: 22
+  username: your_username
+  password: your_password
+  root-path: /path/to/your/files
